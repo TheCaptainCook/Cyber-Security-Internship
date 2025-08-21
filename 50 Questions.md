@@ -1,6 +1,7 @@
 # Frequently Asked Questions
 
-#### 1.What is cybersecurity and why is it important?
+#### 1.What is cybersecurity and why is it important?   
+    Cyber Se
 
 #### 2.What’s the difference between a threat, a vulnerability,andarisk?
 #### 3.Define CIA triad (Confidentiality, Integrity, Availability).
